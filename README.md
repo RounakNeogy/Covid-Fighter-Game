@@ -8,6 +8,7 @@ This a simple game where the player has to reach the vaccination center by overc
 - If the health becomes zero it's Game Over. 
 - If the Player passes through all the obstacles the Player Wins.
 ## Try it out
+https://rounakneogy.github.io/Covid-Fighter-Game/
 
 
 
