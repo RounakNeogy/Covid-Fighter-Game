@@ -1,4 +1,14 @@
+body{
+  background-color:white;
+  text-align: center;
+}
+h1{
+  font-size: 3rem;
+  font-family:Bungee Shade;
+  
+}
 #canvas{
+  /* margin-left: 100px; */
   background-image: url(Images/back.jpg);
-  border: 5px solid black;
+  border: 5px solid #0a1d37;
 }
