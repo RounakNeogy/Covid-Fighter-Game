@@ -9,6 +9,7 @@ This a simple game where the player has to reach the vaccination center by overc
 - If the Player passes through all the obstacles the Player Wins.
 ## Try it out
 https://rounakneogy.github.io/Covid-Fighter-Game/
-
+## Tech Stack
+<a href="https://html.org/" title="html"><img src="https://github.com/get-icon/geticon/raw/master/icons/html5.svg" alt="HTMl" width="40px" height="40px"></a>
 
 
