@@ -10,6 +10,6 @@ This a simple game where the player has to reach the vaccination center by overc
 ## Try it out
 https://rounakneogy.github.io/Covid-Fighter-Game/
 ## Tech Stack
-<a href="https://html.org/" title="html"><img src="https://github.com/get-icon/geticon/raw/master/icons/html5.svg" alt="HTMl" width="40px" height="40px"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
 
 
