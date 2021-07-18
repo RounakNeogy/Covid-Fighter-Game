@@ -6,7 +6,7 @@ This a simple game where the player has to reach the vaccination center by overc
 - The Player's score will depend on how much distance he has moved.
 - On collion with the covid virus the health and score of the Player decreases.
 - If the health becomes zero it's Game Over. 
-- If the Player passes through all the obstacles the Player Wins .
+- If the Player passes through all the obstacles the Player Wins.
 ## Screenshot
  ![](SS.png)
  
