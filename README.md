@@ -1,6 +1,6 @@
 # Covid-Fighter-Game
 ##  Introduction
-This a simple game where the player has to reach the vaccination center by overcoming the obstacles.  
+This a simple game where the player has to reach the vaccination center by overcoming the obstacles .  
 ## About the game
 - The Player can move left and right by the LeftArrow and RightArrow keys respectively.
 - The Player's score will depend on how much distance he has moved.
