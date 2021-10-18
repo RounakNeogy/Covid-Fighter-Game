@@ -1,4 +1,4 @@
-# Covid-Fighter-Game
+# Covid-Fighter-Game!
 ##  Introduction
 This a simple game where the player has to reach the vaccination center by overcoming the obstacles.  
 ## About the game
